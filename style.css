@@ -5,3 +5,10 @@ h1{
     margin: 10px;
     text-align: center;
 }
+h2{
+    color: grey;
+    background-color: black;
+    padding: 30px;
+    margin: 15;
+    text-align: center;
+}
